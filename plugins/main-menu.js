@@ -21,8 +21,8 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ Istagram:
+├ https://tiny.cc/Nathalie
 │
 ├ Note :
 ├ *Ⓟ* = Premium
@@ -65,9 +65,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     'absen': 'Absen',
     'quran': 'Al Qur\'an',
     'audio': 'Pengubah Suara',
-    'jadibot': 'Jadi Bot',
+    'jadibot': 'Jadi Bot', Hapus texs ini
     'info': 'Info',
-    '': 'Tanpa Kategori',
+Hapus texs ini!! 
   }
   if (teks == 'game') tags = {
     'game': 'Game'
